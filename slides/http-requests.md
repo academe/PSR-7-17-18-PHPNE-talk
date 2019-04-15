@@ -8,6 +8,7 @@ Within an application, what are we trying to do?
 Notes:
 
 * HyperText Transport Protocol
+* Just programmatically making requests in this talk
 
 ---
 
@@ -21,6 +22,12 @@ Host: phpne.org.uk
 Accept: image/gif, image/jpeg, */*
 Accept-Language: en-us
 ```
+
+Notes:
+
+* The request is just text
+* Has a header and an optional payload (body)
+* Rules on how it is constructed
 
 ---
 
@@ -38,3 +45,6 @@ expires: Sat, 13 Apr 2019 19:24:42 GMT
 age: 16
 ```
 
+Notes:
+
+* Response is text similar to the request

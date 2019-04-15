@@ -4,6 +4,12 @@
 * Interfaces helping interoperability
 * https://www.php-fig.org/psr/
 
+Notes:
+
+* Quick aside in case the terms are not familiar.
+* A PSR specifies a way of standardising some common problems.
+* Includes autoloading, code formatting, PHPdoc formats, and interfaces.
+
 ---
 
 ## Who Creates PSRs?
