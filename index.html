@@ -1,0 +1,100 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="css/reset.css">
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/black.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/monokai.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section data-markdown>
+						# <span style="white-space: nowrap;">PSR-7</span>/<span style="white-space: nowrap;">PSR-17</span>/<span style="white-space: nowrap;">PSR-18</span>
+						Short talk for PHP North East (https://phpne.org.uk/)
+				</section>
+				<section data-background="rgb(151, 229, 216)">
+					<section data-markdown="slides/http-requests.md" data-charset="utf-8">
+					</section>
+					<section>
+						<div data-svg-fragment="slides/images/application.svg#[*|label=Canvas]" style="background-color: white">
+							<a class="fragment" title="[*|label=Client]"></a>
+							<a class="fragment" title="[*|label=Request]"></a>
+							<a class="fragment" title="[*|label=Response]"></a>
+							<a class="fragment" title="[*|label=PSR]"></a>
+						</div>				
+					</section>
+				</section>
+
+				<section data-background="#256d4e" data-background-image="slides/images/php-fig-home-banner-bg.jpg" data-background-opacity="0.5">
+					<section data-markdown="slides/psr-fig.md" data-charset="utf-8">
+					</section>
+				</section>
+
+				<section data-background="rgb(155, 4, 22)">
+					<section data-markdown="slides/psr-18.md" data-charset="utf-8">
+					</section>
+
+					<section>
+						<div data-svg-fragment="slides/images/application-psr-18.svg#[*|label=Canvas]" style="background-color: white">
+							<a class="fragment" title="[*|label=PSR-17a]"></a>
+							<a class="fragment" title="[*|label=PSR-17b]"></a>
+							<a class="fragment" title="[*|label=PSR-17c]"></a>
+						</div>				
+					</section>
+				</section>
+
+				<section data-background="rgb(65, 177, 242)">
+					<section>
+						<h2>PSR-7 Defines Messages</h2>
+
+						<div data-svg-fragment="slides/images/psr-7-interface-relationships.svg#[*|label=Messages]" style="background-color: white">
+							<a class="fragment" title="[*|label=Support]"></a>
+						</div>
+					</section>
+					<section data-markdown="slides/psr-7.md" data-charset="utf-8">
+					</section>
+				</section>
+			</div>
+		</div>
+
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true },
+					{ src: 'plugin/d3/reveal-svg-fragment.js',
+						condition: function() {
+							return !!document.querySelector( '[data-svg-fragment]' );
+						},
+						selector: "title",
+						d3: "plugin/d3/d3.min.js"
+					}
+				]
+			});
+		</script>
+	</body>
+</html>
