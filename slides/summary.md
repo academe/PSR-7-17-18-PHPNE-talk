@@ -2,6 +2,9 @@
 
 * These PSRs have been adopted widely
 * Relatively simply to upgrade
+* Enough details for an hour's talk
+
+---
 
 ## The Interfaces
 
