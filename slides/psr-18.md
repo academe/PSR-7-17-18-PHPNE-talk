@@ -38,7 +38,8 @@ Notes:
 
 Notes:
 
-* DI - Dependency Inversion
+* DI - Dependency Inversion.
+* Any PSR-18 client will work.
 
 ---
 
@@ -62,4 +63,5 @@ interface ClientInterface
 Notes:
 
 * Asynchronous is not a part of this spec.
+* HTTPlug, a predecessor of PSR-18 does have an async client.
 * Just a quick overview of PSR-7 follows.

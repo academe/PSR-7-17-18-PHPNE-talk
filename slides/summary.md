@@ -1,3 +1,8 @@
+## Summary
+
+* These PSRs have been adopted widely
+* Relatively simply to upgrade
+
 ## The Interfaces
 
 * PSR-7 request and responses
@@ -22,6 +27,11 @@ On packagist.org look for:
 * ...inject them into your libraries.
 * Discovery: do you need it?
 * Pick your favourite implementations or use what's provided.
+
+Notes:
+
+* The framework may dictate which client and factories are used.
+* Another package my dictate this.
 
 ---
 

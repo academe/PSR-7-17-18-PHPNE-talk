@@ -16,5 +16,5 @@ Notes:
 
 * PHP-FIG
 * PHP Framework Interop Group
-* Set up by frameworks to help interoperability
+* Started by a group of frameworks to help interoperability
 * https://www.php-fig.org/

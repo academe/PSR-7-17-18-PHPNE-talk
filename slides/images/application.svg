@@ -20,13 +20,29 @@
   <defs
      id="defs2">
     <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1038"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1036" />
+    </marker>
+    <marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
        refY="0"
        refX="0"
        id="marker7846"
        style="overflow:visible"
-       inkscape:isstock="true">
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
          id="path7844"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
@@ -126,10 +142,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="681.60283"
+     inkscape:cx="785.96715"
      inkscape:cy="413.10708"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1332"
      inkscape:window-height="743"
@@ -224,7 +240,7 @@
          y="-269.50479"
          style="stroke-width:1.41487205">Network</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.24059737;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend);marker-mid:url(#marker1038)"
        d="m 765.43028,-193.51898 c 183.92808,-0.17112 586.68262,3.90066 651.06502,4.38926 49.8372,-0.19358 65.5773,15.51822 65.153,53.12694 -0.3888,34.43575 -12.6866,48.119963 -62.5784,47.266388 -55.8829,-0.956035 -653.37304,-0.489301 -653.37304,-0.489301"
        id="path4655"
        inkscape:connector-curvature="0"
@@ -249,7 +265,7 @@
        height="100.65804"
        width="411.34296" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.20354414;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7846)"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2,2;stroke-opacity:1;marker-end:url(#marker7846);stroke-dashoffset:0"
        d="m 949.55467,-375.14985 c -37.90664,0 -88.93481,68.72241 -88.93481,165.74218"
        id="path7836"
        inkscape:connector-curvature="0" />
@@ -262,7 +278,7 @@
        height="147.75307"
        width="462.8046" />
     <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:1.02838969;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7846-7)"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2,2;stroke-opacity:1;marker-end:url(#marker7846-7);stroke-dashoffset:0"
        d="m 928.14009,92.779293 c -27.67624,0 -64.93266,-68.722414 -64.93266,-165.742182"
        id="path7836-4"
        inkscape:connector-curvature="0" />
@@ -321,7 +337,7 @@
          style="stroke-width:1.41487205"
          id="tspan7163">Request</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.41487205px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker7175)"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker7175);stroke-miterlimit:4;stroke-dasharray:none"
        d="m 353.2871,-371.19377 131.381,78.8286"
        id="path7165"
        inkscape:connector-curvature="0" />
@@ -355,7 +371,7 @@
          style="stroke-width:1.41487205"
          id="tspan7163-8">Response</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:1.41487205px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker7175-3)"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker7175-3);stroke-miterlimit:4;stroke-dasharray:none"
        d="M 489.66686,-157.42054 358.28589,-88.698159"
        id="path7165-1"
        inkscape:connector-curvature="0"

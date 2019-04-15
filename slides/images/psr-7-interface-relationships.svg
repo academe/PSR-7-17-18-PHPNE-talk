@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1060.3751"
-   height="637.85718"
-   viewBox="0 0 1060.3752 637.85718"
+   height="685.92883"
+   viewBox="0 0 1060.3752 685.92884"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -180,16 +180,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="530.18756"
-     inkscape:cy="405.08746"
+     inkscape:cx="246.12533"
+     inkscape:cy="405.08743"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
      inkscape:window-width="1111"
      inkscape:window-height="629"
-     inkscape:window-x="1591"
-     inkscape:window-y="388"
+     inkscape:window-x="1514"
+     inkscape:window-y="331"
      inkscape:window-maximized="0"
      fit-margin-top="5"
      fit-margin-left="5"
@@ -211,7 +211,7 @@
      inkscape:label="Messages"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-22.928562,-234.62938)"
+     transform="translate(-22.928562,-186.55769)"
      style="display:inline">
     <rect
        style="fill:none;stroke:#04a604;stroke-width:5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -312,12 +312,23 @@
          x="999.09589"
          y="381.13547"
          id="tspan5334">Inherits</tspan></text>
+    <text
+       transform="translate(0,86.999997)"
+       xml:space="preserve"
+       style="display:inline;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="117.88289"
+       y="134.94832"
+       id="text931"><tspan
+         sodipodi:role="line"
+         id="tspan929"
+         x="117.88289"
+         y="134.94832">PSR-17 Messages and Supporting Interfaces</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Support"
-     transform="translate(-22.928562,-147.62938)"
+     transform="translate(-22.928562,-99.557693)"
      style="display:inline">
     <rect
        style="fill:none;stroke:#2a3eb0;stroke-width:5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -407,7 +418,7 @@
        x="241.04327"
        y="304.70917"
        id="text5314"
-       transform="rotate(0.59324185,8402.4556,-43.500011)"><tspan
+       transform="rotate(0.59324185,8402.4556,-43.500015)"><tspan
          sodipodi:role="line"
          x="241.04327"
          y="304.70917"
