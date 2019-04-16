@@ -25,9 +25,7 @@
 	<body>
 		<div class="reveal">
 			<div class="slides">
-				<section data-markdown>
-						# <span style="white-space: nowrap;">PSR-7</span>/<span style="white-space: nowrap;">PSR-17</span>/<span style="white-space: nowrap;">PSR-18</span>
-						Short talk for PHP North East (https://phpne.org.uk/)
+				<section data-markdown="slides/intro.md" data-charset="utf-8">
 				</section>
 				<section data-background="rgb(151, 229, 216)">
 					<section data-markdown="slides/http-requests.md" data-charset="utf-8">
@@ -74,11 +72,16 @@
 
 				<section data-background="rgb(65, 177, 242)">
 					<section>
-						<!-- <h2>PSR-7 Defines Messages</h2> -->
-
 						<div data-svg-fragment="slides/images/psr-7-interface-relationships.svg#[*|label=Messages]" style="background-color: white">
 							<a class="fragment" title="[*|label=Support]"></a>
 						</div>
+						<aside class="notes" data-markdown>
+							* These are interfaces
+							* Message is not used directly; it provides common methods
+							* Request is constructed by your app/package to send
+							* Request is constructed by the client on receipt
+							* ServerRequest is constructed by the framework on inbound request 
+						</aside>
 					</section>
 					<section data-markdown="slides/psr-7.md" data-charset="utf-8">
 					</section>

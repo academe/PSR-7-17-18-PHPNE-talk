@@ -38,3 +38,9 @@
 https://packagist.org/providers/psr/http-factory-implementation <!-- .element: style="background-color: black" -->
 
 ![](slides/images/http-factory-implementations.png)
+
+Notes:
+
+* No idea where you find a list of "providers"
+* Or what to put into the "provide" element of your composer.json
+* These are virtual packages

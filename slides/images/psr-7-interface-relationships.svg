@@ -180,7 +180,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="246.12533"
+     inkscape:cx="557.99523"
      inkscape:cy="405.08743"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -203,7 +203,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -313,16 +313,15 @@
          y="381.13547"
          id="tspan5334">Inherits</tspan></text>
     <text
-       transform="translate(0,86.999997)"
        xml:space="preserve"
-       style="display:inline;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="117.88289"
-       y="134.94832"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="131.88289"
+       y="221.94832"
        id="text931"><tspan
          sodipodi:role="line"
          id="tspan929"
-         x="117.88289"
-         y="134.94832">PSR-17 Messages and Supporting Interfaces</tspan></text>
+         x="131.88289"
+         y="221.94832">PSR-7 Messages and Supporting Interfaces</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

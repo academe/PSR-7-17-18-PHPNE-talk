@@ -1,8 +1,14 @@
 ## Summary
 
-* These PSRs have been adopted widely
-* Relatively simply to upgrade
-* Enough details for an hour's talk
+* These PSRs have been adopted widely by client and message libraries <!-- .element: class="fragment" -->
+* Not adopted much by users of clients and message libraries <!-- .element: class="fragment" -->
+* Relatively simply to upgrade <!-- .element: class="fragment" -->
+* Lots more detail not covered in this short talk <!-- .element: class="fragment" -->
+
+Notes:
+
+* Users include payment gateways, API libraries, swagger/OpenAPI code generation etc.
+* Omnipay is switching over
 
 ---
 
@@ -26,10 +32,11 @@ On packagist.org look for:
 
 ## Using These PSRs
 
-* Instantiate client and factories in framework...
-* ...inject them into your libraries.
-* Discovery: do you need it?
-* Pick your favourite implementations or use what's provided.
+* For your frameworks and your packages <!-- .element: class="fragment" -->
+* Instantiate client and factories in framework... <!-- .element: class="fragment" -->
+* ...inject them into your libraries. <!-- .element: class="fragment" -->
+* Discovery: do you need it? <!-- .element: class="fragment" -->
+* Pick your favourite implementations or use what's provided. <!-- .element: class="fragment" -->
 
 Notes:
 

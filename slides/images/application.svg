@@ -142,15 +142,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="785.96715"
+     inkscape:cx="460.96715"
      inkscape:cy="413.10708"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1332"
      inkscape:window-height="743"
-     inkscape:window-x="1410"
-     inkscape:window-y="218"
+     inkscape:window-x="1523"
+     inkscape:window-y="129"
      inkscape:window-maximized="0"
      fit-margin-top="5"
      fit-margin-left="5"
@@ -282,6 +282,17 @@
        d="m 928.14009,92.779293 c -27.67624,0 -64.93266,-68.722414 -64.93266,-165.742182"
        id="path7836-4"
        inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:282.52630615px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:7.06315804"
+       x="546.38434"
+       y="-32.467651"
+       id="text908"><tspan
+         sodipodi:role="line"
+         id="tspan906"
+         x="546.38434"
+         y="-32.467651"
+         style="stroke-width:7.06315804">?</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -295,7 +306,7 @@
        height="234.71054"
        x="485.34518"
        y="-342.85196"
-       style="fill:none;stroke:#000000;stroke-width:3.89833236;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.75376886" />
+       style="fill:#ffffff;stroke:#000000;stroke-width:3.89833236;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.75376886;fill-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:56.59488678px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41487205"
